@@ -1,10 +1,10 @@
 [Link of training and testing data files] (https://drive.google.com/file/d/1jUzqQuoA4rMFGFu8NBnkD2_TWFufBvD2/view?usp=drive_link)
 
 
-# Customer Complaint Resolution Prediction
+# Consumer Complaint Resolution Prediction
 
 ## Project Overview
-The **Customer Complaint Resolution Prediction** project aims to develop a predictive model to determine whether consumers are likely to dispute the resolution of their complaints. The project involves analyzing customer complaint data to identify patterns and factors influencing disputes and utilizing machine learning algorithms to build and evaluate prediction models.
+The **Consumer Complaint Resolution Prediction** project aims to develop a predictive model to determine whether consumers are likely to dispute the resolution of their complaints. The project involves analyzing customer complaint data to identify patterns and factors influencing disputes and utilizing machine learning algorithms to build and evaluate prediction models.
 
 ## Features
 - **Data Exploration and Preprocessing**: Cleaned and preprocessed customer complaint data to handle missing values and encode categorical features.
