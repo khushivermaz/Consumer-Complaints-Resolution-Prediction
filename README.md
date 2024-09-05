@@ -1,8 +1,5 @@
 [Link of training and testing data files] (https://drive.google.com/file/d/1jUzqQuoA4rMFGFu8NBnkD2_TWFufBvD2/view?usp=drive_link)
 
-Here's a README template for your "Customer Complaint Resolution Prediction" project:
-
----
 
 # Customer Complaint Resolution Prediction
 
