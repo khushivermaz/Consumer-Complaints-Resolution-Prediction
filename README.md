@@ -25,7 +25,7 @@ The **Consumer Complaint Resolution Prediction** project aims to develop a predi
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/customer-complaint-resolution.git
+   git clone https://github.com/khushivermaz/customer-complaint-resolution.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
