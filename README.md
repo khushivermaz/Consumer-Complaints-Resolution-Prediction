@@ -15,7 +15,7 @@ The **Consumer Complaint Resolution Prediction** project aims to develop a predi
   - Random Forest
   - XGBoost
   - LightGBM                                                      
-- **Evaluation**: Assessed model performance using appropriate metrics and selected the best-performing model. 
+- **Evaluation**: Assessed model performance using appropriate metrics and selected the best-performing model.                                                   
 
 ## Technologies Used
 - **Programming Languages**: Python
