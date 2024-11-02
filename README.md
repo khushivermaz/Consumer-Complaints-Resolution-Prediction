@@ -10,7 +10,7 @@ The **Consumer Complaint Resolution Prediction** project aims to develop a predi
 - **Data Exploration and Preprocessing**: Cleaned and preprocessed customer complaint data to handle missing values and encode categorical features.
 - **Feature Selection**: Identified and selected significant features contributing to the prediction of disputes.
 - **Exploratory Data Analysis (EDA)**: Conducted thorough EDA to understand data distributions, relationships, and trends.
-- **Model Building**: Developed and compared various classification models to predict complaint disputes, including:
+- **Model Building**: Developed and compared various classification models to predict complaint disputes, including:                   
   - Linear Regression
   - Random Forest
   - XGBoost
