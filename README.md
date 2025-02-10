@@ -2,7 +2,7 @@
 
  
 # Consumer Complaint Resolution Prediction
-
+                                                               
 ## Project Overview
 The **Consumer Complaint Resolution Prediction** project aims to develop a predictive model to determine whether consumers are likely to dispute the resolution of their complaints. The project involves analyzing customer complaint data to identify patterns and factors influencing disputes and utilizing machine learning algorithms to build and evaluate prediction models.
 
